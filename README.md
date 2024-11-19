@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# COVID Map Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a **COVID-19 tracking application** developed using **React**. Users can select a country on the world map and view COVID-19 statistics specific to that country.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Technologies Used
 
-### `npm start`
+The following libraries and tools were used in this project:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **react-router-dom**: Used for page routing and navigation.  
+- **react-icons**: Used to display icons in the application.  
+- **tailwind**: Used for rapid and flexible design.  
+- **react-simple-maps**: Used to display and make the world map interactive.  
+- **@reduxjs/toolkit** and **react-redux**: Used for application state management.  
+- **@testing-library/user-event**: Used to test user interactions.  
+- **axios**: Used to fetch COVID-19 data from the API.  
+- **react-testing-library**: Used to test React components.  
+- **jest**: Used to run and manage tests.  
+- **thunk**: Used for asynchronous operations (e.g., fetching data from an API).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## Tests
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Tests were written using **Jest** and **Testing Library**.
 
-### `npm run build`
+# COVID Map Projesi
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Bu proje, **React** kullanılarak geliştirilmiş bir **COVID-19 takip uygulamasıdır**. Kullanıcılar, dünya haritası üzerinde istedikleri bir ülkeyi seçerek, o ülkeye ait COVID-19 istatistiklerini görebilirler.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Kullanılan Teknolojiler
 
-### `npm run eject`
+Bu projede aşağıdaki kütüphaneler ve araçlar kullanılmıştır:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **react-router-dom**: Sayfa yönlendirme ve gezinme için kullanıldı.  
+- **react-icons**: Uygulamada ikonları göstermek için kullanıldı.  
+- **tailwind**: Tasarımı hızlıca ve esnek bir şekilde yapmak için kullanıldı.  
+- **react-simple-maps**: Dünya haritasını göstermek ve etkileşimli hale getirmek için kullanıldı.  
+- **@reduxjs/toolkit** ve **react-redux**: Uygulama durum yönetimi için kullanıldı.  
+- **@testing-library/user-event**: Kullanıcı etkileşimlerini test etmek için kullanıldı.  
+- **axios**: COVID-19 verilerini API'den almak için kullanıldı.  
+- **react-testing-library**: React bileşenlerinin test edilmesi için kullanıldı.  
+- **jest**: Testlerin çalıştırılması ve yönetilmesi için kullanıldı.  
+- **thunk**: Asenkron işlemler (örneğin, API'den veri çekme) için kullanıldı.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Testler
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Testler, **Jest** ve **Testing Library** kullanılarak yazılmıştır.# covid-map
