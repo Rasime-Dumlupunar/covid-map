@@ -50,4 +50,6 @@ Bu projede aşağıdaki kütüphaneler ve araçlar kullanılmıştır:
 
 ## Testler
 
-Testler, **Jest** ve **Testing Library** kullanılarak yazılmıştır.# covid-map
+Testler, **Jest** ve **Testing Library** kullanılarak yazılmıştır.
+
+![](https://github.com/Rasime-Dumlupunar/covid-map/blob/main/covid%20map.gif)
